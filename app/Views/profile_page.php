@@ -44,11 +44,11 @@
 		            <p>An undergraduate student in informatics engineering at Muhammadiyah University of Sukabumi. Interested in web development, especially front end web. Studi Independen Kampus Merderka Batch 5 participant in Dicoding Indonesia with learning path Front End Back End Web Development. Experienced as a graphic designer and noe very interested in the graphic designer.</p>
 		            <ul class="about-info mt-4 px-md-0 px-2">
 		            	<li class="d-flex"><span>Name:</span> <span>Muhamad Zildan TM</span></li>
-		            	<li class="d-flex"><span>Date of birth:</span> <span>November 19, 2001</span></li>
+		            	<li class="d-flex"><span>Date of birth:</span> <span>June 19, 2001</span></li>
 		            	<li class="d-flex"><span>Address:</span> <span>Sukabumi, West Java, Indonesia</span></li>
 		            	<li class="d-flex"><span>Zip code:</span> <span>43155</span></li>
 		            	<li class="d-flex"><span>Email:</span> <span>muhamadzildan13@gmail.com</span></li>
-		            	<li class="d-flex"><span>Phone: </span> <span>+62 0909 8778</span></li>
+		            	<li class="d-flex"><span>Phone: </span> <span>+62 895 2367 7603</span></li>
 		            </ul>
 		          </div>
 		        </div>
@@ -86,7 +86,7 @@
 					    		<span class="flaticon-ideas"></span>
 					    	</div>
 					    	<div class="text pl-3">
-		    					<span class="date">2021-Now</span>
+		    					<span class="date">2021-Present</span>
 		    					<h2>University of Muhammadiyah Sukabumi</h2>
 		    					<span class="position">S1</span>
 		    					<p>Program Studi Teknik Informatika</p>
